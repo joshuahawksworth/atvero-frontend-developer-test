@@ -21,7 +21,7 @@ Handle errors gracefully. Display a friendly error message if the API request fa
 
 ## Deliverables
 
-- If you're proficient in Reason ML, we'd prefer its usage. If you're not familiar with Reason ML but have expertise in TypeScript, opt for TypeScript. Otherwise, default to JavaScript.
+- If you're proficient in Melange/ReScript, we'd prefer its usage. If you're not familiar with Reason ML but have expertise in TypeScript, opt for TypeScript. Otherwise, default to JavaScript.
 
 - Your code should have good test coverage, whether this is unit, integration or E2E.
 
