@@ -1,3 +1,33 @@
+## Vercel link
+
+You can preview this project without a download by using [this](atvero-frontend-developer-test.vercel.app) link.
+
+## Building the App
+
+To build the app for yourself, you can use one of the following commands:
+
+```bash
+npm install
+# or
+yarn install
+# or
+npm install
+# or
+bun install
+```
+
+You can then run one of the following commands to get started!
+
+```bash
+npm run start
+# or
+yarn start
+# or
+npm start
+# or
+bun start
+```
+
 # Atvero Front End Developer Test
 
 - The aim of this test is to give us an idea about how you approach the development and maintenance of web applications.
